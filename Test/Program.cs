@@ -59,7 +59,7 @@ namespace Test
         public string TargetHardware { get; set; }
         public string Other { get; set; }
 
-        public string ToString()
+        public override string ToString()
         {
             return $"cpe:2.3:{Part}:{Vendor}:{Product}:{Version}:{Update}:{Edition}:{Language}:{SoftwareEdition}:{TargetSoftware}:{TargetHardware}:{Other}";
         }
