@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
+using NUnit.Framework;
 
 namespace Test
 {
@@ -107,20 +108,16 @@ namespace Test
     {
         public int ID { get; set; }
     }
+    [TestFixture]
     public class CPEModelTest
     {
-        static void Main(string[] args)
-        {
-            Test();
-        }
-
-        public static void Test()
+        [Test]
+        public static void GetStringCPEEqual()
         {
             var cpe = new CPE("cpe:2.3:o:intel:bios:bnkbl357.86a:*:*:*:*:*:*:*");
-            cpe.Part = "a";
             string cpeString = cpe.ToString();
             cpeString = cpe.ToString();
-
+            Assert.IsTrue(cpeString == "cpe:2.3:o:intel:bios:bnkbl357.86a:*:*:*:*:*:*:*");
         }
     }
 }
