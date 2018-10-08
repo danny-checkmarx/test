@@ -1,0 +1,12 @@
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.exe
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.deps.json
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.runtimeconfig.json
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.runtimeconfig.dev.json
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.dll
+C:\Code\Test\Test\bin\Release\netcoreapp2.1\win10-x64\Test.pdb
+C:\Code\Test\Test\obj\Release\netcoreapp2.1\win10-x64\Test.csprojAssemblyReference.cache
+C:\Code\Test\Test\obj\Release\netcoreapp2.1\win10-x64\Test.csproj.CoreCompileInputs.cache
+C:\Code\Test\Test\obj\Release\netcoreapp2.1\win10-x64\Test.dll
+C:\Code\Test\Test\obj\Release\netcoreapp2.1\win10-x64\Test.pdb

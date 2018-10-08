@@ -1,6 +1,0 @@
-<NUnitProject>
-  <Settings activeconfig="Debug"/>
-  <Config name="Debug">
-    <assembly path="Test\bin\Debug\netcoreapp2.1\Test.dll"/>
-  </Config>
-</NUnitProject>
