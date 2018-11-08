@@ -8,7 +8,7 @@ namespace Test
     {
         public static void Main()
         {
-            Console.WriteLine(Assembly.GetExecutingAssembly().GetName().Version.ToString());
+            Console.WriteLine(Assembly.GetExecutingAssembly().GetName().Version);
         }
     }
 }
