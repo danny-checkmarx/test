@@ -1,0 +1,1358 @@
+{
+  "_args": [
+    [
+      "clap@1.2.3",
+      "C:\\Code\\LUMO\\Topaz\\ScaAgentWebApplication\\ClientApp"
+    ]
+  ],
+  "_from": "clap@1.2.3",
+  "_id": "clap@1.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-4CoL/A3hf90V3VIEjeuhSvlGFEHKzOz+Wfc2IVZc+FaUgU0ZQafJTP49fvnULipOPcAfqhyI2duwQyns6xqjYA==",
+  "_location": "/clap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "clap@1.2.3",
+    "name": "clap",
+    "escapedName": "clap",
+    "rawSpec": "1.2.3",
+    "saveSpec": null,
+    "fetchSpec": "1.2.3"
+  },
+  "_requiredBy": [
+    "/csso"
+  ],
+  "_resolved": "https://registry.npmjs.org/clap/-/clap-1.2.3.tgz",
+  "_spec": "1.2.3",
+  "_where": "C:\\Code\\LUMO\\Topaz\\ScaAgentWebApplication\\ClientApp",
+  "author": {
+    "name": "Roman Dvornov",
+    "email": "rdvornov@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/lahmatiy/clap/issues"
+  },
+  "dependencies": {
+    "babel-traverse": {
+      "name": "babel-traverse",
+      "version": "6.11.4",
+      "_id": "babel-traverse@6.11.4",
+      "_resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.11.4.tgz",
+      "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "babel-traverse@6.11.4",
+        "name": "babel-traverse",
+        "escapedName": "babel-traverse",
+        "rawSpec": "6.11.4",
+        "saveSpec": "[Circular]",
+        "fetchSpec": "6.11.4"
+      },
+      "_integrity": "sha1-On3vakwf6fWLWcmiK+gfYZ+Cl2w=",
+      "_from": "babel-traverse@6.11.4",
+      "_spec": "6.11.4",
+      "_where": "C:\\temp\\DepRes\\js\\npm",
+      "_args": [
+        [
+          "babel-traverse@6.11.4",
+          "C:\\temp\\DepRes\\js\\npm"
+        ]
+      ],
+      "dependencies": {
+        "babel-code-frame": {
+          "name": "babel-code-frame",
+          "version": "6.26.0",
+          "_id": "babel-code-frame@6.26.0",
+          "_resolved": "https://registry.npmjs.org/babel-code-frame/-/babel-code-frame-6.26.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-code-frame@6.26.0",
+            "name": "babel-code-frame",
+            "escapedName": "babel-code-frame",
+            "rawSpec": "6.26.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.26.0"
+          },
+          "_integrity": "sha1-Y/1D99weO7fONZR9uP42mj9Yx0s=",
+          "_from": "babel-code-frame@6.26.0",
+          "_spec": "6.26.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "babel-code-frame@6.26.0",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {
+            "chalk": {
+              "name": "chalk",
+              "version": "1.1.3",
+              "_id": "chalk@1.1.3",
+              "_resolved": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "chalk@1.1.3",
+                "name": "chalk",
+                "escapedName": "chalk",
+                "rawSpec": "1.1.3",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "1.1.3"
+              },
+              "_integrity": "sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg=",
+              "_from": "chalk@1.1.3",
+              "_spec": "1.1.3",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "chalk@1.1.3",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {
+                "ansi-styles": {
+                  "name": "ansi-styles",
+                  "version": "2.2.1",
+                  "_id": "ansi-styles@2.2.1",
+                  "_resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "ansi-styles@2.2.1",
+                    "name": "ansi-styles",
+                    "escapedName": "ansi-styles",
+                    "rawSpec": "2.2.1",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "2.2.1"
+                  },
+                  "_integrity": "sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4=",
+                  "_from": "ansi-styles@2.2.1",
+                  "_spec": "2.2.1",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": [
+                    [
+                      "ansi-styles@2.2.1",
+                      "C:\\temp\\DepRes\\js\\npm"
+                    ]
+                  ],
+                  "dependencies": {},
+                  "bundleDependencies": [],
+                  "devDependencies": {},
+                  "optionalDependencies": {},
+                  "_dependencies": {},
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\ansi-styles",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "2.2.1"
+                },
+                "escape-string-regexp": {
+                  "name": "escape-string-regexp",
+                  "version": "1.0.5",
+                  "_id": "escape-string-regexp@1.0.5",
+                  "_resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "escape-string-regexp@1.0.5",
+                    "name": "escape-string-regexp",
+                    "escapedName": "escape-string-regexp",
+                    "rawSpec": "1.0.5",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "1.0.5"
+                  },
+                  "_integrity": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=",
+                  "_from": "escape-string-regexp@1.0.5",
+                  "_spec": "1.0.5",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": [
+                    [
+                      "escape-string-regexp@1.0.5",
+                      "C:\\temp\\DepRes\\js\\npm"
+                    ]
+                  ],
+                  "dependencies": {},
+                  "bundleDependencies": [],
+                  "devDependencies": {},
+                  "optionalDependencies": {},
+                  "_dependencies": {},
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\escape-string-regexp",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "1.0.5"
+                },
+                "has-ansi": {
+                  "name": "has-ansi",
+                  "version": "2.0.0",
+                  "_id": "has-ansi@2.0.0",
+                  "_resolved": "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "has-ansi@2.0.0",
+                    "name": "has-ansi",
+                    "escapedName": "has-ansi",
+                    "rawSpec": "2.0.0",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "2.0.0"
+                  },
+                  "_integrity": "sha1-NPUEnOHs3ysGSa8+8k5F7TVBbZE=",
+                  "_from": "has-ansi@2.0.0",
+                  "_spec": "2.0.0",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": [
+                    [
+                      "has-ansi@2.0.0",
+                      "C:\\temp\\DepRes\\js\\npm"
+                    ]
+                  ],
+                  "dependencies": {
+                    "ansi-regex": {
+                      "name": "ansi-regex",
+                      "version": "2.1.1",
+                      "_id": "ansi-regex@2.1.1",
+                      "_resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz",
+                      "_requested": {
+                        "type": "version",
+                        "registry": true,
+                        "raw": "ansi-regex@2.1.1",
+                        "name": "ansi-regex",
+                        "escapedName": "ansi-regex",
+                        "rawSpec": "2.1.1",
+                        "saveSpec": "[Circular]",
+                        "fetchSpec": "2.1.1"
+                      },
+                      "_integrity": "sha1-w7M6te42DYbg5ijwRorn7yfWVN8=",
+                      "_from": "ansi-regex@2.1.1",
+                      "_spec": "2.1.1",
+                      "_where": "C:\\temp\\DepRes\\js\\npm",
+                      "_args": [
+                        [
+                          "ansi-regex@2.1.1",
+                          "C:\\temp\\DepRes\\js\\npm"
+                        ]
+                      ],
+                      "dependencies": {},
+                      "bundleDependencies": [],
+                      "devDependencies": {},
+                      "optionalDependencies": {},
+                      "_dependencies": {},
+                      "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\ansi-regex",
+                      "extraneous": false,
+                      "missing": true,
+                      "requiredBy": "2.1.1"
+                    }
+                  },
+                  "bundleDependencies": [],
+                  "devDependencies": {},
+                  "optionalDependencies": {},
+                  "_dependencies": {
+                    "ansi-regex": "^2.0.0"
+                  },
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\has-ansi",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "2.0.0"
+                },
+                "strip-ansi": {
+                  "name": "strip-ansi",
+                  "version": "3.0.1",
+                  "_id": "strip-ansi@3.0.1",
+                  "_resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "strip-ansi@3.0.1",
+                    "name": "strip-ansi",
+                    "escapedName": "strip-ansi",
+                    "rawSpec": "3.0.1",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "3.0.1"
+                  },
+                  "_integrity": "sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=",
+                  "_from": "strip-ansi@3.0.1",
+                  "_spec": "3.0.1",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": [
+                    [
+                      "strip-ansi@3.0.1",
+                      "C:\\temp\\DepRes\\js\\npm"
+                    ]
+                  ],
+                  "dependencies": {
+                    "ansi-regex": {
+                      "name": "ansi-regex",
+                      "version": "2.1.1",
+                      "_id": "ansi-regex@2.1.1",
+                      "_resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz",
+                      "_requested": {
+                        "type": "version",
+                        "registry": true,
+                        "raw": "ansi-regex@2.1.1",
+                        "name": "ansi-regex",
+                        "escapedName": "ansi-regex",
+                        "rawSpec": "2.1.1",
+                        "saveSpec": "[Circular]",
+                        "fetchSpec": "2.1.1"
+                      },
+                      "_integrity": "sha1-w7M6te42DYbg5ijwRorn7yfWVN8=",
+                      "_from": "ansi-regex@2.1.1",
+                      "_spec": "2.1.1",
+                      "_where": "C:\\temp\\DepRes\\js\\npm",
+                      "_args": "[Circular]",
+                      "dependencies": {},
+                      "bundleDependencies": "[Circular]",
+                      "devDependencies": "[Circular]",
+                      "optionalDependencies": "[Circular]",
+                      "_dependencies": "[Circular]",
+                      "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\ansi-regex",
+                      "extraneous": false,
+                      "missing": true,
+                      "requiredBy": "2.1.1",
+                      "_deduped": "node_modules\\ansi-regex"
+                    }
+                  },
+                  "bundleDependencies": [],
+                  "devDependencies": {},
+                  "optionalDependencies": {},
+                  "_dependencies": {
+                    "ansi-regex": "^2.0.0"
+                  },
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\strip-ansi",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "3.0.1"
+                },
+                "supports-color": {
+                  "name": "supports-color",
+                  "version": "2.0.0",
+                  "_id": "supports-color@2.0.0",
+                  "_resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "supports-color@2.0.0",
+                    "name": "supports-color",
+                    "escapedName": "supports-color",
+                    "rawSpec": "2.0.0",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "2.0.0"
+                  },
+                  "_integrity": "sha1-U10EXOa2Nj+kARcIRimZXp3zJMc=",
+                  "_from": "supports-color@2.0.0",
+                  "_spec": "2.0.0",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": [
+                    [
+                      "supports-color@2.0.0",
+                      "C:\\temp\\DepRes\\js\\npm"
+                    ]
+                  ],
+                  "dependencies": {},
+                  "bundleDependencies": [],
+                  "devDependencies": {},
+                  "optionalDependencies": {},
+                  "_dependencies": {},
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\supports-color",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "2.0.0"
+                }
+              },
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {
+                "ansi-styles": "^2.2.1",
+                "escape-string-regexp": "^1.0.2",
+                "has-ansi": "^2.0.0",
+                "strip-ansi": "^3.0.0",
+                "supports-color": "^2.0.0"
+              },
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\chalk",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "1.1.3"
+            },
+            "esutils": {
+              "name": "esutils",
+              "version": "2.0.2",
+              "_id": "esutils@2.0.2",
+              "_resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "esutils@2.0.2",
+                "name": "esutils",
+                "escapedName": "esutils",
+                "rawSpec": "2.0.2",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "2.0.2"
+              },
+              "_integrity": "sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=",
+              "_from": "esutils@2.0.2",
+              "_spec": "2.0.2",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "esutils@2.0.2",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {},
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\esutils",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "2.0.2",
+              "_deduped": "node_modules\\esutils"
+            },
+            "js-tokens": {
+              "name": "js-tokens",
+              "version": "3.0.2",
+              "_id": "js-tokens@3.0.2",
+              "_resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "js-tokens@3.0.2",
+                "name": "js-tokens",
+                "escapedName": "js-tokens",
+                "rawSpec": "3.0.2",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "3.0.2"
+              },
+              "_integrity": "sha1-mGbfOVECEw449/mWvOtlRDIJwls=",
+              "_from": "js-tokens@3.0.2",
+              "_spec": "3.0.2",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "js-tokens@3.0.2",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {},
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\js-tokens",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "3.0.2"
+            }
+          },
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {
+            "chalk": "^1.1.3",
+            "esutils": "^2.0.2",
+            "js-tokens": "^3.0.2"
+          },
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-code-frame",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.26.0"
+        },
+        "babel-messages": {
+          "name": "babel-messages",
+          "version": "6.23.0",
+          "_id": "babel-messages@6.23.0",
+          "_resolved": "https://registry.npmjs.org/babel-messages/-/babel-messages-6.23.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-messages@6.23.0",
+            "name": "babel-messages",
+            "escapedName": "babel-messages",
+            "rawSpec": "6.23.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.23.0"
+          },
+          "_integrity": "sha1-8830cDhYA1sqKVHG7F7fbGLyYw4=",
+          "_from": "babel-messages@6.23.0",
+          "_spec": "6.23.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "babel-messages@6.23.0",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {
+            "babel-runtime": {
+              "name": "babel-runtime",
+              "version": "6.26.0",
+              "_id": "babel-runtime@6.26.0",
+              "_resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "babel-runtime@6.26.0",
+                "name": "babel-runtime",
+                "escapedName": "babel-runtime",
+                "rawSpec": "6.26.0",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "6.26.0"
+              },
+              "_integrity": "sha1-llxwWGaOgrVde/4E/yM3vItWR/4=",
+              "_from": "babel-runtime@6.26.0",
+              "_spec": "6.26.0",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "babel-runtime@6.26.0",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {
+                "core-js": "^2.4.0",
+                "regenerator-runtime": "^0.11.0"
+              },
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-runtime",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "6.26.0",
+              "_deduped": "node_modules\\babel-runtime"
+            }
+          },
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {
+            "babel-runtime": "^6.22.0"
+          },
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-messages",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.23.0"
+        },
+        "babel-runtime": {
+          "name": "babel-runtime",
+          "version": "6.26.0",
+          "_id": "babel-runtime@6.26.0",
+          "_resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-runtime@6.26.0",
+            "name": "babel-runtime",
+            "escapedName": "babel-runtime",
+            "rawSpec": "6.26.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.26.0"
+          },
+          "_integrity": "sha1-llxwWGaOgrVde/4E/yM3vItWR/4=",
+          "_from": "babel-runtime@6.26.0",
+          "_spec": "6.26.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": "[Circular]",
+          "dependencies": {
+            "core-js": {
+              "name": "core-js",
+              "version": "2.6.9",
+              "_id": "core-js@2.6.9",
+              "_resolved": "https://registry.npmjs.org/core-js/-/core-js-2.6.9.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "core-js@2.6.9",
+                "name": "core-js",
+                "escapedName": "core-js",
+                "rawSpec": "2.6.9",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "2.6.9"
+              },
+              "_integrity": "sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A==",
+              "_from": "core-js@2.6.9",
+              "_spec": "2.6.9",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "core-js@2.6.9",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {},
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\core-js",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "2.6.9"
+            },
+            "regenerator-runtime": {
+              "name": "regenerator-runtime",
+              "version": "0.11.1",
+              "_id": "regenerator-runtime@0.11.1",
+              "_resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "regenerator-runtime@0.11.1",
+                "name": "regenerator-runtime",
+                "escapedName": "regenerator-runtime",
+                "rawSpec": "0.11.1",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "0.11.1"
+              },
+              "_integrity": "sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg==",
+              "_from": "regenerator-runtime@0.11.1",
+              "_spec": "0.11.1",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "regenerator-runtime@0.11.1",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {},
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\regenerator-runtime",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "0.11.1"
+            }
+          },
+          "bundleDependencies": "[Circular]",
+          "devDependencies": "[Circular]",
+          "optionalDependencies": "[Circular]",
+          "_dependencies": "[Circular]",
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-runtime",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.26.0"
+        },
+        "babel-types": {
+          "name": "babel-types",
+          "version": "6.11.1",
+          "_id": "babel-types@6.11.1",
+          "_resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.11.1.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-types@6.11.1",
+            "name": "babel-types",
+            "escapedName": "babel-types",
+            "rawSpec": "6.11.1",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.11.1"
+          },
+          "_integrity": "sha1-o981W6uQ3c9mMYZAcXzywVTmZIo=",
+          "_from": "babel-types@6.11.1",
+          "_spec": "6.11.1",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "babel-types@6.11.1",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {},
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {
+            "babel-runtime": "^6.9.1",
+            "babel-traverse": "^6.9.0",
+            "esutils": "^2.0.2",
+            "lodash": "^4.2.0",
+            "to-fast-properties": "^1.0.1"
+          },
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-types",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.11.1",
+          "_deduped": "node_modules\\babel-types"
+        },
+        "babylon": {
+          "name": "babylon",
+          "version": "6.18.0",
+          "_id": "babylon@6.18.0",
+          "_resolved": "https://registry.npmjs.org/babylon/-/babylon-6.18.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babylon@6.18.0",
+            "name": "babylon",
+            "escapedName": "babylon",
+            "rawSpec": "6.18.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.18.0"
+          },
+          "_integrity": "sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ==",
+          "_from": "babylon@6.18.0",
+          "_spec": "6.18.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "babylon@6.18.0",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {},
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {},
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babylon",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.18.0"
+        },
+        "debug": {
+          "name": "debug",
+          "version": "2.6.9",
+          "_id": "debug@2.6.9",
+          "_resolved": "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "debug@2.6.9",
+            "name": "debug",
+            "escapedName": "debug",
+            "rawSpec": "2.6.9",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "2.6.9"
+          },
+          "_integrity": "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==",
+          "_from": "debug@2.6.9",
+          "_spec": "2.6.9",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "debug@2.6.9",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {
+            "ms": {
+              "name": "ms",
+              "version": "2.0.0",
+              "_id": "ms@2.0.0",
+              "_resolved": "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "ms@2.0.0",
+                "name": "ms",
+                "escapedName": "ms",
+                "rawSpec": "2.0.0",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "2.0.0"
+              },
+              "_integrity": "sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=",
+              "_from": "ms@2.0.0",
+              "_spec": "2.0.0",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "ms@2.0.0",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {},
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {},
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\ms",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "2.0.0"
+            }
+          },
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {
+            "ms": "2.0.0"
+          },
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\debug",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "2.6.9"
+        },
+        "globals": {
+          "name": "globals",
+          "version": "8.18.0",
+          "_id": "globals@8.18.0",
+          "_resolved": "https://registry.npmjs.org/globals/-/globals-8.18.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "globals@8.18.0",
+            "name": "globals",
+            "escapedName": "globals",
+            "rawSpec": "8.18.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "8.18.0"
+          },
+          "_integrity": "sha1-k9SmK9ysOM+vr8R9awNHaMsP/LQ=",
+          "_from": "globals@8.18.0",
+          "_spec": "8.18.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "globals@8.18.0",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {},
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {},
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\globals",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "8.18.0"
+        },
+        "invariant": {
+          "name": "invariant",
+          "version": "2.2.4",
+          "_id": "invariant@2.2.4",
+          "_resolved": "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "invariant@2.2.4",
+            "name": "invariant",
+            "escapedName": "invariant",
+            "rawSpec": "2.2.4",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "2.2.4"
+          },
+          "_integrity": "sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==",
+          "_from": "invariant@2.2.4",
+          "_spec": "2.2.4",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "invariant@2.2.4",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {
+            "loose-envify": {
+              "name": "loose-envify",
+              "version": "1.4.0",
+              "_id": "loose-envify@1.4.0",
+              "_resolved": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+              "_requested": {
+                "type": "version",
+                "registry": true,
+                "raw": "loose-envify@1.4.0",
+                "name": "loose-envify",
+                "escapedName": "loose-envify",
+                "rawSpec": "1.4.0",
+                "saveSpec": "[Circular]",
+                "fetchSpec": "1.4.0"
+              },
+              "_integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+              "_from": "loose-envify@1.4.0",
+              "_spec": "1.4.0",
+              "_where": "C:\\temp\\DepRes\\js\\npm",
+              "_args": [
+                [
+                  "loose-envify@1.4.0",
+                  "C:\\temp\\DepRes\\js\\npm"
+                ]
+              ],
+              "dependencies": {
+                "js-tokens": {
+                  "name": "js-tokens",
+                  "version": "3.0.2",
+                  "_id": "js-tokens@3.0.2",
+                  "_resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz",
+                  "_requested": {
+                    "type": "version",
+                    "registry": true,
+                    "raw": "js-tokens@3.0.2",
+                    "name": "js-tokens",
+                    "escapedName": "js-tokens",
+                    "rawSpec": "3.0.2",
+                    "saveSpec": "[Circular]",
+                    "fetchSpec": "3.0.2"
+                  },
+                  "_integrity": "sha1-mGbfOVECEw449/mWvOtlRDIJwls=",
+                  "_from": "js-tokens@3.0.2",
+                  "_spec": "3.0.2",
+                  "_where": "C:\\temp\\DepRes\\js\\npm",
+                  "_args": "[Circular]",
+                  "dependencies": {},
+                  "bundleDependencies": "[Circular]",
+                  "devDependencies": "[Circular]",
+                  "optionalDependencies": "[Circular]",
+                  "_dependencies": "[Circular]",
+                  "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\js-tokens",
+                  "extraneous": false,
+                  "missing": true,
+                  "requiredBy": "3.0.2",
+                  "_deduped": "node_modules\\js-tokens"
+                }
+              },
+              "bundleDependencies": [],
+              "devDependencies": {},
+              "optionalDependencies": {},
+              "_dependencies": {
+                "js-tokens": "^3.0.0 || ^4.0.0"
+              },
+              "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\loose-envify",
+              "extraneous": false,
+              "missing": true,
+              "requiredBy": "1.4.0"
+            }
+          },
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {
+            "loose-envify": "^1.0.0"
+          },
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\invariant",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "2.2.4"
+        },
+        "lodash": {
+          "name": "lodash",
+          "version": "4.17.11",
+          "_id": "lodash@4.17.11",
+          "_resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "lodash@4.17.11",
+            "name": "lodash",
+            "escapedName": "lodash",
+            "rawSpec": "4.17.11",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "4.17.11"
+          },
+          "_integrity": "sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==",
+          "_from": "lodash@4.17.11",
+          "_spec": "4.17.11",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "lodash@4.17.11",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {},
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {},
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\lodash",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "4.17.11"
+        }
+      },
+      "bundleDependencies": [],
+      "devDependencies": {},
+      "optionalDependencies": {},
+      "_dependencies": {
+        "babel-code-frame": "^6.8.0",
+        "babel-messages": "^6.8.0",
+        "babel-runtime": "^6.9.0",
+        "babel-types": "^6.9.0",
+        "babylon": "^6.7.0",
+        "debug": "^2.2.0",
+        "globals": "^8.3.0",
+        "invariant": "^2.2.0",
+        "lodash": "^4.2.0"
+      },
+      "missing": true,
+      "requiredBy": "6.11.4",
+      "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-traverse",
+      "extraneous": false
+    },
+    "babel-types": {
+      "name": "babel-types",
+      "version": "6.11.1",
+      "_id": "babel-types@6.11.1",
+      "_resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.11.1.tgz",
+      "_requested": {
+        "type": "version",
+        "registry": true,
+        "raw": "babel-types@6.11.1",
+        "name": "babel-types",
+        "escapedName": "babel-types",
+        "rawSpec": "6.11.1",
+        "saveSpec": "[Circular]",
+        "fetchSpec": "6.11.1"
+      },
+      "_integrity": "sha1-o981W6uQ3c9mMYZAcXzywVTmZIo=",
+      "_from": "babel-types@6.11.1",
+      "_spec": "6.11.1",
+      "_where": "C:\\temp\\DepRes\\js\\npm",
+      "_args": "[Circular]",
+      "dependencies": {
+        "babel-runtime": {
+          "name": "babel-runtime",
+          "version": "6.26.0",
+          "_id": "babel-runtime@6.26.0",
+          "_resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-runtime@6.26.0",
+            "name": "babel-runtime",
+            "escapedName": "babel-runtime",
+            "rawSpec": "6.26.0",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.26.0"
+          },
+          "_integrity": "sha1-llxwWGaOgrVde/4E/yM3vItWR/4=",
+          "_from": "babel-runtime@6.26.0",
+          "_spec": "6.26.0",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": "[Circular]",
+          "dependencies": {},
+          "bundleDependencies": "[Circular]",
+          "devDependencies": "[Circular]",
+          "optionalDependencies": "[Circular]",
+          "_dependencies": "[Circular]",
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-runtime",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "6.26.0",
+          "_deduped": "node_modules\\babel-runtime"
+        },
+        "babel-traverse": {
+          "name": "babel-traverse",
+          "version": "6.11.4",
+          "_id": "babel-traverse@6.11.4",
+          "_resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.11.4.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "babel-traverse@6.11.4",
+            "name": "babel-traverse",
+            "escapedName": "babel-traverse",
+            "rawSpec": "6.11.4",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "6.11.4"
+          },
+          "_integrity": "sha1-On3vakwf6fWLWcmiK+gfYZ+Cl2w=",
+          "_from": "babel-traverse@6.11.4",
+          "_spec": "6.11.4",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": "[Circular]",
+          "dependencies": {},
+          "bundleDependencies": "[Circular]",
+          "devDependencies": "[Circular]",
+          "optionalDependencies": "[Circular]",
+          "_dependencies": "[Circular]",
+          "missing": true,
+          "requiredBy": "6.11.4",
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-traverse",
+          "extraneous": false,
+          "_deduped": "node_modules\\babel-traverse"
+        },
+        "esutils": {
+          "name": "esutils",
+          "version": "2.0.2",
+          "_id": "esutils@2.0.2",
+          "_resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "esutils@2.0.2",
+            "name": "esutils",
+            "escapedName": "esutils",
+            "rawSpec": "2.0.2",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "2.0.2"
+          },
+          "_integrity": "sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs=",
+          "_from": "esutils@2.0.2",
+          "_spec": "2.0.2",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": "[Circular]",
+          "dependencies": {},
+          "bundleDependencies": "[Circular]",
+          "devDependencies": "[Circular]",
+          "optionalDependencies": "[Circular]",
+          "_dependencies": "[Circular]",
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\esutils",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "2.0.2"
+        },
+        "lodash": {
+          "name": "lodash",
+          "version": "4.17.11",
+          "_id": "lodash@4.17.11",
+          "_resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "lodash@4.17.11",
+            "name": "lodash",
+            "escapedName": "lodash",
+            "rawSpec": "4.17.11",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "4.17.11"
+          },
+          "_integrity": "sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==",
+          "_from": "lodash@4.17.11",
+          "_spec": "4.17.11",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": "[Circular]",
+          "dependencies": {},
+          "bundleDependencies": "[Circular]",
+          "devDependencies": "[Circular]",
+          "optionalDependencies": "[Circular]",
+          "_dependencies": "[Circular]",
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\lodash",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "4.17.11",
+          "_deduped": "node_modules\\lodash"
+        },
+        "to-fast-properties": {
+          "name": "to-fast-properties",
+          "version": "1.0.3",
+          "_id": "to-fast-properties@1.0.3",
+          "_resolved": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-1.0.3.tgz",
+          "_requested": {
+            "type": "version",
+            "registry": true,
+            "raw": "to-fast-properties@1.0.3",
+            "name": "to-fast-properties",
+            "escapedName": "to-fast-properties",
+            "rawSpec": "1.0.3",
+            "saveSpec": "[Circular]",
+            "fetchSpec": "1.0.3"
+          },
+          "_integrity": "sha1-uDVx+k2MJbguIxsG46MFXeTKGkc=",
+          "_from": "to-fast-properties@1.0.3",
+          "_spec": "1.0.3",
+          "_where": "C:\\temp\\DepRes\\js\\npm",
+          "_args": [
+            [
+              "to-fast-properties@1.0.3",
+              "C:\\temp\\DepRes\\js\\npm"
+            ]
+          ],
+          "dependencies": {},
+          "bundleDependencies": [],
+          "devDependencies": {},
+          "optionalDependencies": {},
+          "_dependencies": {},
+          "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\to-fast-properties",
+          "extraneous": false,
+          "missing": true,
+          "requiredBy": "1.0.3"
+        }
+      },
+      "bundleDependencies": "[Circular]",
+      "devDependencies": "[Circular]",
+      "optionalDependencies": "[Circular]",
+      "_dependencies": "[Circular]",
+      "path": "C:\\temp\\DepRes\\js\\npm\\node_modules\\babel-types",
+      "extraneous": false,
+      "missing": true,
+      "requiredBy": "6.11.1"
+    }
+  },
+  "description": "Command line argument parser",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "HISTORY.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://github.com/lahmatiy/clap",
+  "keywords": [
+    "cli",
+    "command",
+    "option",
+    "argument",
+    "completion"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "clap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahmatiy/clap.git"
+  },
+  "scripts": {
+    "test": "mocha test -R spec"
+  },
+  "title": "Command line argument parser",
+  "version": "1.2.3",
+  "readme": "ERROR: No README data found!",
+  "_shrinkwrap": {
+    "name": "clap",
+    "version": "1.2.3",
+    "lockfileVersion": 1,
+    "requires": true,
+    "dependencies": {
+      "ansi-regex": {
+        "version": "2.1.1",
+        "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz",
+        "integrity": "sha1-w7M6te42DYbg5ijwRorn7yfWVN8="
+      },
+      "ansi-styles": {
+        "version": "2.2.1",
+        "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz",
+        "integrity": "sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4="
+      },
+      "babel-code-frame": {
+        "version": "6.26.0",
+        "resolved": "https://registry.npmjs.org/babel-code-frame/-/babel-code-frame-6.26.0.tgz",
+        "integrity": "sha1-Y/1D99weO7fONZR9uP42mj9Yx0s=",
+        "requires": "[Circular]"
+      },
+      "babel-messages": {
+        "version": "6.23.0",
+        "resolved": "https://registry.npmjs.org/babel-messages/-/babel-messages-6.23.0.tgz",
+        "integrity": "sha1-8830cDhYA1sqKVHG7F7fbGLyYw4=",
+        "requires": "[Circular]"
+      },
+      "babel-runtime": {
+        "version": "6.26.0",
+        "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+        "integrity": "sha1-llxwWGaOgrVde/4E/yM3vItWR/4=",
+        "requires": "[Circular]"
+      },
+      "babel-traverse": {
+        "version": "6.11.4",
+        "resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.11.4.tgz",
+        "integrity": "sha1-On3vakwf6fWLWcmiK+gfYZ+Cl2w=",
+        "requires": "[Circular]"
+      },
+      "babel-types": {
+        "version": "6.11.1",
+        "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.11.1.tgz",
+        "integrity": "sha1-o981W6uQ3c9mMYZAcXzywVTmZIo=",
+        "requires": "[Circular]"
+      },
+      "babylon": {
+        "version": "6.18.0",
+        "resolved": "https://registry.npmjs.org/babylon/-/babylon-6.18.0.tgz",
+        "integrity": "sha512-q/UEjfGJ2Cm3oKV71DJz9d25TPnq5rhBVL2Q4fA5wcC3jcrdn7+SssEybFIxwAvvP+YCsCYNKughoF33GxgycQ=="
+      },
+      "chalk": {
+        "version": "1.1.3",
+        "resolved": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz",
+        "integrity": "sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg=",
+        "requires": "[Circular]"
+      },
+      "core-js": {
+        "version": "2.6.9",
+        "resolved": "https://registry.npmjs.org/core-js/-/core-js-2.6.9.tgz",
+        "integrity": "sha512-HOpZf6eXmnl7la+cUdMnLvUxKNqLUzJvgIziQ0DiF3JwSImNphIqdGqzj6hIKyX04MmV0poclQ7+wjWvxQyR2A=="
+      },
+      "debug": {
+        "version": "2.6.9",
+        "resolved": "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz",
+        "integrity": "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA==",
+        "requires": "[Circular]"
+      },
+      "escape-string-regexp": {
+        "version": "1.0.5",
+        "resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz",
+        "integrity": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ="
+      },
+      "esutils": {
+        "version": "2.0.2",
+        "resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz",
+        "integrity": "sha1-Cr9PHKpbyx96nYrMbepPqqBLrJs="
+      },
+      "globals": {
+        "version": "8.18.0",
+        "resolved": "https://registry.npmjs.org/globals/-/globals-8.18.0.tgz",
+        "integrity": "sha1-k9SmK9ysOM+vr8R9awNHaMsP/LQ="
+      },
+      "has-ansi": {
+        "version": "2.0.0",
+        "resolved": "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz",
+        "integrity": "sha1-NPUEnOHs3ysGSa8+8k5F7TVBbZE=",
+        "requires": "[Circular]"
+      },
+      "invariant": {
+        "version": "2.2.4",
+        "resolved": "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz",
+        "integrity": "sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==",
+        "requires": "[Circular]"
+      },
+      "js-tokens": {
+        "version": "3.0.2",
+        "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz",
+        "integrity": "sha1-mGbfOVECEw449/mWvOtlRDIJwls="
+      },
+      "lodash": {
+        "version": "4.17.11",
+        "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz",
+        "integrity": "sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg=="
+      },
+      "loose-envify": {
+        "version": "1.4.0",
+        "resolved": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+        "integrity": "sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==",
+        "requires": "[Circular]"
+      },
+      "ms": {
+        "version": "2.0.0",
+        "resolved": "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz",
+        "integrity": "sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g="
+      },
+      "regenerator-runtime": {
+        "version": "0.11.1",
+        "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz",
+        "integrity": "sha512-MguG95oij0fC3QV3URf4V2SDYGJhJnJGqvIIgdECeODCT98wSWDAJ94SSuVpYQUoTcGUIL6L4yNB7j1DFFHSBg=="
+      },
+      "strip-ansi": {
+        "version": "3.0.1",
+        "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz",
+        "integrity": "sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=",
+        "requires": "[Circular]"
+      },
+      "supports-color": {
+        "version": "2.0.0",
+        "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz",
+        "integrity": "sha1-U10EXOa2Nj+kARcIRimZXp3zJMc="
+      },
+      "to-fast-properties": {
+        "version": "1.0.3",
+        "resolved": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-1.0.3.tgz",
+        "integrity": "sha1-uDVx+k2MJbguIxsG46MFXeTKGkc="
+      }
+    }
+  },
+  "optionalDependencies": {},
+  "_dependencies": {
+    "babel-traverse": "6.11.4",
+    "babel-types": "6.11.1"
+  },
+  "path": "C:\\temp\\DepRes\\js\\npm",
+  "error": "[Circular]",
+  "extraneous": false
+}

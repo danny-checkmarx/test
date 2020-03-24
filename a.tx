@@ -1,0 +1,302 @@
+{
+  "name": "clap",
+  "version": "1.2.3",
+  "from": "clap@1.2.3",
+  "resolved": "https://registry.npmjs.org/clap/-/clap-1.2.3.tgz",
+  "problems": [
+    "missing: babel-traverse@6.11.4, required by clap@1.2.3",
+    "missing: babel-types@6.11.1, required by clap@1.2.3",
+    "missing: babel-code-frame@6.26.0, required by babel-traverse@6.11.4",
+    "missing: babel-messages@6.23.0, required by babel-traverse@6.11.4",
+    "missing: babel-runtime@6.26.0, required by babel-traverse@6.11.4",
+    "missing: babel-types@6.11.1, required by babel-traverse@6.11.4",
+    "missing: babylon@6.18.0, required by babel-traverse@6.11.4",
+    "missing: debug@2.6.9, required by babel-traverse@6.11.4",
+    "missing: globals@8.18.0, required by babel-traverse@6.11.4",
+    "missing: invariant@2.2.4, required by babel-traverse@6.11.4",
+    "missing: lodash@4.17.11, required by babel-traverse@6.11.4",
+    "missing: chalk@1.1.3, required by babel-code-frame@6.26.0",
+    "missing: esutils@2.0.2, required by babel-code-frame@6.26.0",
+    "missing: js-tokens@3.0.2, required by babel-code-frame@6.26.0",
+    "missing: ansi-styles@2.2.1, required by chalk@1.1.3",
+    "missing: escape-string-regexp@1.0.5, required by chalk@1.1.3",
+    "missing: has-ansi@2.0.0, required by chalk@1.1.3",
+    "missing: strip-ansi@3.0.1, required by chalk@1.1.3",
+    "missing: supports-color@2.0.0, required by chalk@1.1.3",
+    "missing: ansi-regex@2.1.1, required by has-ansi@2.0.0",
+    "missing: ansi-regex@2.1.1, required by strip-ansi@3.0.1",
+    "missing: babel-runtime@6.26.0, required by babel-messages@6.23.0",
+    "missing: core-js@2.6.9, required by babel-runtime@6.26.0",
+    "missing: regenerator-runtime@0.11.1, required by babel-runtime@6.26.0",
+    "missing: ms@2.0.0, required by debug@2.6.9",
+    "missing: loose-envify@1.4.0, required by invariant@2.2.4",
+    "missing: js-tokens@3.0.2, required by loose-envify@1.4.0",
+    "missing: babel-runtime@6.26.0, required by babel-types@6.11.1",
+    "missing: babel-traverse@6.11.4, required by babel-types@6.11.1",
+    "missing: esutils@2.0.2, required by babel-types@6.11.1",
+    "missing: lodash@4.17.11, required by babel-types@6.11.1",
+    "missing: to-fast-properties@1.0.3, required by babel-types@6.11.1"
+  ],
+  "dependencies": {
+    "babel-traverse": {
+      "version": "6.11.4",
+      "from": "babel-traverse@6.11.4",
+      "resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.11.4.tgz",
+      "problems": [
+        "missing: babel-code-frame@6.26.0, required by babel-traverse@6.11.4",
+        "missing: babel-messages@6.23.0, required by babel-traverse@6.11.4",
+        "missing: babel-runtime@6.26.0, required by babel-traverse@6.11.4",
+        "missing: babel-types@6.11.1, required by babel-traverse@6.11.4",
+        "missing: babylon@6.18.0, required by babel-traverse@6.11.4",
+        "missing: debug@2.6.9, required by babel-traverse@6.11.4",
+        "missing: globals@8.18.0, required by babel-traverse@6.11.4",
+        "missing: invariant@2.2.4, required by babel-traverse@6.11.4",
+        "missing: lodash@4.17.11, required by babel-traverse@6.11.4",
+        "missing: chalk@1.1.3, required by babel-code-frame@6.26.0",
+        "missing: esutils@2.0.2, required by babel-code-frame@6.26.0",
+        "missing: js-tokens@3.0.2, required by babel-code-frame@6.26.0",
+        "missing: ansi-styles@2.2.1, required by chalk@1.1.3",
+        "missing: escape-string-regexp@1.0.5, required by chalk@1.1.3",
+        "missing: has-ansi@2.0.0, required by chalk@1.1.3",
+        "missing: strip-ansi@3.0.1, required by chalk@1.1.3",
+        "missing: supports-color@2.0.0, required by chalk@1.1.3",
+        "missing: ansi-regex@2.1.1, required by has-ansi@2.0.0",
+        "missing: ansi-regex@2.1.1, required by strip-ansi@3.0.1",
+        "missing: babel-runtime@6.26.0, required by babel-messages@6.23.0",
+        "missing: core-js@2.6.9, required by babel-runtime@6.26.0",
+        "missing: regenerator-runtime@0.11.1, required by babel-runtime@6.26.0",
+        "missing: ms@2.0.0, required by debug@2.6.9",
+        "missing: loose-envify@1.4.0, required by invariant@2.2.4",
+        "missing: js-tokens@3.0.2, required by loose-envify@1.4.0"
+      ],
+      "dependencies": {
+        "babel-code-frame": {
+          "version": "6.26.0",
+          "from": "babel-code-frame@6.26.0",
+          "resolved": "https://registry.npmjs.org/babel-code-frame/-/babel-code-frame-6.26.0.tgz",
+          "problems": [
+            "missing: chalk@1.1.3, required by babel-code-frame@6.26.0",
+            "missing: esutils@2.0.2, required by babel-code-frame@6.26.0",
+            "missing: js-tokens@3.0.2, required by babel-code-frame@6.26.0",
+            "missing: ansi-styles@2.2.1, required by chalk@1.1.3",
+            "missing: escape-string-regexp@1.0.5, required by chalk@1.1.3",
+            "missing: has-ansi@2.0.0, required by chalk@1.1.3",
+            "missing: strip-ansi@3.0.1, required by chalk@1.1.3",
+            "missing: supports-color@2.0.0, required by chalk@1.1.3",
+            "missing: ansi-regex@2.1.1, required by has-ansi@2.0.0",
+            "missing: ansi-regex@2.1.1, required by strip-ansi@3.0.1"
+          ],
+          "dependencies": {
+            "chalk": {
+              "version": "1.1.3",
+              "from": "chalk@1.1.3",
+              "resolved": "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz",
+              "problems": [
+                "missing: ansi-styles@2.2.1, required by chalk@1.1.3",
+                "missing: escape-string-regexp@1.0.5, required by chalk@1.1.3",
+                "missing: has-ansi@2.0.0, required by chalk@1.1.3",
+                "missing: strip-ansi@3.0.1, required by chalk@1.1.3",
+                "missing: supports-color@2.0.0, required by chalk@1.1.3",
+                "missing: ansi-regex@2.1.1, required by has-ansi@2.0.0",
+                "missing: ansi-regex@2.1.1, required by strip-ansi@3.0.1"
+              ],
+              "dependencies": {
+                "ansi-styles": {
+                  "version": "2.2.1",
+                  "from": "ansi-styles@2.2.1",
+                  "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz"
+                },
+                "escape-string-regexp": {
+                  "version": "1.0.5",
+                  "from": "escape-string-regexp@1.0.5",
+                  "resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+                },
+                "has-ansi": {
+                  "version": "2.0.0",
+                  "from": "has-ansi@2.0.0",
+                  "resolved": "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz",
+                  "problems": [
+                    "missing: ansi-regex@2.1.1, required by has-ansi@2.0.0"
+                  ],
+                  "dependencies": {
+                    "ansi-regex": {
+                      "version": "2.1.1",
+                      "from": "ansi-regex@2.1.1",
+                      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz"
+                    }
+                  }
+                },
+                "strip-ansi": {
+                  "version": "3.0.1",
+                  "from": "strip-ansi@3.0.1",
+                  "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz",
+                  "problems": [
+                    "missing: ansi-regex@2.1.1, required by strip-ansi@3.0.1"
+                  ],
+                  "dependencies": {
+                    "ansi-regex": {
+                      "version": "2.1.1",
+                      "from": "ansi-regex@2.1.1",
+                      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz"
+                    }
+                  }
+                },
+                "supports-color": {
+                  "version": "2.0.0",
+                  "from": "supports-color@2.0.0",
+                  "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
+                }
+              }
+            },
+            "esutils": {
+              "version": "2.0.2",
+              "from": "esutils@2.0.2",
+              "resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
+            },
+            "js-tokens": {
+              "version": "3.0.2",
+              "from": "js-tokens@3.0.2",
+              "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz"
+            }
+          }
+        },
+        "babel-messages": {
+          "version": "6.23.0",
+          "from": "babel-messages@6.23.0",
+          "resolved": "https://registry.npmjs.org/babel-messages/-/babel-messages-6.23.0.tgz",
+          "problems": [
+            "missing: babel-runtime@6.26.0, required by babel-messages@6.23.0"
+          ],
+          "dependencies": {
+            "babel-runtime": {
+              "version": "6.26.0",
+              "from": "babel-runtime@6.26.0",
+              "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz"
+            }
+          }
+        },
+        "babel-runtime": {
+          "version": "6.26.0",
+          "from": "babel-runtime@6.26.0",
+          "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz",
+          "problems": [
+            "missing: core-js@2.6.9, required by babel-runtime@6.26.0",
+            "missing: regenerator-runtime@0.11.1, required by babel-runtime@6.26.0"
+          ],
+          "dependencies": {
+            "core-js": {
+              "version": "2.6.9",
+              "from": "core-js@2.6.9",
+              "resolved": "https://registry.npmjs.org/core-js/-/core-js-2.6.9.tgz"
+            },
+            "regenerator-runtime": {
+              "version": "0.11.1",
+              "from": "regenerator-runtime@0.11.1",
+              "resolved": "https://registry.npmjs.org/regenerator-runtime/-/regenerator-runtime-0.11.1.tgz"
+            }
+          }
+        },
+        "babel-types": {
+          "version": "6.11.1",
+          "from": "babel-types@6.11.1",
+          "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.11.1.tgz"
+        },
+        "babylon": {
+          "version": "6.18.0",
+          "from": "babylon@6.18.0",
+          "resolved": "https://registry.npmjs.org/babylon/-/babylon-6.18.0.tgz"
+        },
+        "debug": {
+          "version": "2.6.9",
+          "from": "debug@2.6.9",
+          "resolved": "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz",
+          "problems": [
+            "missing: ms@2.0.0, required by debug@2.6.9"
+          ],
+          "dependencies": {
+            "ms": {
+              "version": "2.0.0",
+              "from": "ms@2.0.0",
+              "resolved": "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
+            }
+          }
+        },
+        "globals": {
+          "version": "8.18.0",
+          "from": "globals@8.18.0",
+          "resolved": "https://registry.npmjs.org/globals/-/globals-8.18.0.tgz"
+        },
+        "invariant": {
+          "version": "2.2.4",
+          "from": "invariant@2.2.4",
+          "resolved": "https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz",
+          "problems": [
+            "missing: loose-envify@1.4.0, required by invariant@2.2.4",
+            "missing: js-tokens@3.0.2, required by loose-envify@1.4.0"
+          ],
+          "dependencies": {
+            "loose-envify": {
+              "version": "1.4.0",
+              "from": "loose-envify@1.4.0",
+              "resolved": "https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz",
+              "problems": [
+                "missing: js-tokens@3.0.2, required by loose-envify@1.4.0"
+              ],
+              "dependencies": {
+                "js-tokens": {
+                  "version": "3.0.2",
+                  "from": "js-tokens@3.0.2",
+                  "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-3.0.2.tgz"
+                }
+              }
+            }
+          }
+        },
+        "lodash": {
+          "version": "4.17.11",
+          "from": "lodash@4.17.11",
+          "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
+        }
+      }
+    },
+    "babel-types": {
+      "version": "6.11.1",
+      "from": "babel-types@6.11.1",
+      "resolved": "https://registry.npmjs.org/babel-types/-/babel-types-6.11.1.tgz",
+      "problems": [
+        "missing: babel-runtime@6.26.0, required by babel-types@6.11.1",
+        "missing: babel-traverse@6.11.4, required by babel-types@6.11.1",
+        "missing: esutils@2.0.2, required by babel-types@6.11.1",
+        "missing: lodash@4.17.11, required by babel-types@6.11.1",
+        "missing: to-fast-properties@1.0.3, required by babel-types@6.11.1"
+      ],
+      "dependencies": {
+        "babel-runtime": {
+          "version": "6.26.0",
+          "from": "babel-runtime@6.26.0",
+          "resolved": "https://registry.npmjs.org/babel-runtime/-/babel-runtime-6.26.0.tgz"
+        },
+        "babel-traverse": {
+          "version": "6.11.4",
+          "from": "babel-traverse@6.11.4",
+          "resolved": "https://registry.npmjs.org/babel-traverse/-/babel-traverse-6.11.4.tgz"
+        },
+        "esutils": {
+          "version": "2.0.2",
+          "from": "esutils@2.0.2",
+          "resolved": "https://registry.npmjs.org/esutils/-/esutils-2.0.2.tgz"
+        },
+        "lodash": {
+          "version": "4.17.11",
+          "from": "lodash@4.17.11",
+          "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.11.tgz"
+        },
+        "to-fast-properties": {
+          "version": "1.0.3",
+          "from": "to-fast-properties@1.0.3",
+          "resolved": "https://registry.npmjs.org/to-fast-properties/-/to-fast-properties-1.0.3.tgz"
+        }
+      }
+    }
+  }
+}

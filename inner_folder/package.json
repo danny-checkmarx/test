@@ -1,0 +1,23 @@
+{
+  "name": "cx-web-client-spa",
+  "version": "0.0.0",
+  "description": "cxWebClientSpa",
+  "main": "app.js",
+  "repository": "",
+  "license": "",
+  "scripts": {
+    "start": "npm-run-all --parallel test:watch lint:watch webpack-dev-server",
+    "test": "mocha --reporter progress tools/testSetup.js \"src/**/*.test.js\"",
+    "test:watch": "npm run test -- --watch",
+    "lint": "node_modules/.bin/esw webpack.config.* src tools --ignore-path .eslintignore",
+    "lint:watch": "npm run lint -- --watch",
+    "webpack": "webpack --config=./webpack/webpack.dev.config",
+    "build-dev": "npm-run-all webpack",
+    "build-prod": "webpack --config=./webpack/webpack.production.config --progress --profile --colors -p",
+    "webpack-dev-server": "webpack-dev-server --config=./webpack/webpack.dev.config --hot --progress --colors --open --env development"
+  },
+  "author": "lux checkmarx",
+  "dependencies": {
+    "cookies-js": "^1.2.3"
+  }
+}
