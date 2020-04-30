@@ -39,7 +39,7 @@
     "adm-zip": "0.4.7",
     "lodash": "4.17.11",
     "commander": "2.19.0",
-    "qs": "6.2.1"
+    "qs": "6.9.3"
   },
   "description": "Command line argument parser",
   "devDependencies": {},
