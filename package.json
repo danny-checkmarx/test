@@ -35,7 +35,7 @@
     "url": "https://github.com/lahmatiy/clap/issues"
   },
   "dependencies": {
-    "adm-zip": "0.4.7"
+    "adm-zip": "0.4.11"
   },
   "description": "Command line argument parser",
   "devDependencies": {},
